@@ -1,0 +1,7 @@
+android:
+  platformName: "Android"
+  platformVersion: "10.0"
+  automationName: "uiautomator2"
+  deviceName: "Galaxy_Nexus_API_29"
+  app: "IngressoDotCom.apk"
+            
